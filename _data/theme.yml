@@ -10,7 +10,7 @@
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
 featured-image: coll001
 # optional: add extra padding around collection title for a larger image feature. 
-home-title-y-padding: 4em # Default is 8em
+home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
 home-banner-image-position: # Default is center
 
@@ -77,7 +77,7 @@ navbar-background: bg-info
 # BOOTSWATCH THEMES
 # You can replace the standard Bootstrap theme with a Bootswatch (https://github.com/thomaspark/bootswatch) option
 # Enter one of the following options below: cerulean; cosmo; cyborg; darkly; flatly; journal; litera; lumen; lux; materia; minty; pulse; sandstone; simplex; sketchy; slate; solar; spacelab; superhero; united; yeti 
-bootswatch: materia
+bootswatch: journal
 
 # THEME FONTS
 base-font-size: 1.2em
