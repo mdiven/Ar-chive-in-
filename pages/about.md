@@ -15,11 +15,14 @@ credits: true
 ## About the Collection
 
 This collection was made possible by the following team members and their roles in the project:
-Matt Driven - image upload and metadata entry
-Kellee Forkenbrock - Opening Statement and About sections
-Shaniece Payne - creative structure and direction
-Liam Suttles - Heuristic Analysis
 
+Matt Driven - image upload and metadata entry
+
+Kellee Forkenbrock - Opening Statement and About sections
+
+Shaniece Payne - creative structure and direction
+
+Liam Suttles - Heuristic Analysis
 
 The platform supporting this project is CollectionBuilder, an open-source tool for building digital collections and archival exhibits.
 
